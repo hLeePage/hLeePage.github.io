@@ -106,21 +106,21 @@ syntax-highlight: True
 ############
 
 events:
-  - image: ""
+  - image: "/img/timeline/ruby.png"
     date: "October 2015 - January 2016"
     description: "Back-End Engineering (12-Week Immersive) at The Iron Yard, Nashville"
-  - image: ""
+  - image: "/img/timeline/coding.png"
     date: "October 2014 - September 2015"
     description: "Learning to code (Udacity, Treehouse, Codeschool, you name it)"
-  - image: ""
+  - image: "/img/timeline/hourglass.png"
     date: "May 1995 - Oct 2014"
-    description: "IT Consulting, Handy Man services, Faux and Decorative Painting"
+    description: "IT Consulting, Handy Man services, Medical device sales, Faux and Decorative Painting"
   - image: "/img/timeline/graduation.png"
     date: "September 1991 - May 1995"
     description: "BA Anthropolgy, magna cum laude, Vanderbilt University"
   - image: "/img/timeline/early_earth.jpg"
     date: "4.6 Billion Years Ago - September 1991"
-    description: "The Earth Forms. Things happen."
+    description: "The Earth cools. Stuff happens."
 
 
 # First image of the Timeline
