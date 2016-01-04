@@ -115,17 +115,17 @@ events:
   - image: ""
     date: "May 1995 - Oct 2014"
     description: "IT Consulting, Handy Man services, Faux and Decorative Painting"
-  - image: ""
+  - image: "/img/timeline/graduation.png"
     date: "September 1991 - May 1995"
     description: "BA Anthropolgy, magna cum laude, Vanderbilt University"
-  - image: ""
+  - image: "/img/timeline/early_earth.jpg"
     date: "4.6 Billion Years Ago - September 1991"
     description: "The Earth Forms. Things happen."
 
 
 # First image of the Timeline
 
-timeline-img: ""
+timeline-img: "/img/timeline/default.png"
 
 ###########
 # Contact #
