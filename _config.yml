@@ -57,7 +57,7 @@ start-delay: 200
 delete-delay: 2000
 lines: # You can add HTML Tags in the Text
 
-  - text: "Hello. I'm a back-end web developer."
+  - text: "I'm a back-end web developer."
   - text: "I do back-end web development."
 
 
@@ -120,7 +120,7 @@ events:
     description: "BA Anthropolgy, magna cum laude, Vanderbilt University"
   - image: "/img/timeline/early_earth.jpg"
     date: "4.6 BYA - Sept. 1991"
-    description: "Earth forms and cools. A lot of stuff happens."
+    description: "The Earth forms and cools. A lot of stuff happens."
 
 
 # First image of the Timeline
