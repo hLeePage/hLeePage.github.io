@@ -31,16 +31,16 @@ google-tracking-id: "UA-35880426-4"
 lang: "en"
 author: "Lee Page"
 title: "Lee Page"
-description: "Blog and website of Lee Page."
+description: "Website of Lee Page."
 keywords: "page, lee"
-favicon: "/img/favicon.ico"
+# favicon: ""
 404-img: "/img/labtocat.png"
 
 ################
 # Header layout #
 ################
 
-black-favicon: "/img/black-lab-glass.ico"
+# black-favicon: "/img/black-lab-glass.ico"
 
 background-img: "../img/the_latest_blur.png"
 
@@ -54,11 +54,11 @@ loop: True
 loop-count: 5 # Set False for infinite loop, or set any number for finite loop.
 type-speed: 30
 start-delay: 200
-delete-delay: 2000
+delete-delay: 8000
 lines: # You can add HTML Tags in the Text
 
   - text: "I shall put something clever here."
-  - text: "Something very clever."
+
 
 
 me-img: "/img/headshot_square.png"
@@ -159,13 +159,15 @@ social:
 
 pages_list:
   About: 'about'
-  Blog: 'latest-post'
+  Projects: 'projects'
+  # Blog: 'latest-post'
   Timeline: 'timeline'
   Contact: 'contact'
 
+
 # Exclusion list from the generated _site
 
-exclude: ["LICENSE", "README.md", "CONTRIBUTING", "CONTRIBUTORS", "scripts"]
+exclude: ["LICENSE", "README.md", "CONTRIBUTING", "CONTRIBUTORS", "scripts", "blog"]
 
 # Pagination path
 
