@@ -57,7 +57,7 @@ start-delay: 200
 delete-delay: 8000
 lines: # You can add HTML Tags in the Text
 
-  - text: "Something clever goes here."
+  # - text: "Something clever goes here."
 
 
 
