@@ -48,7 +48,7 @@ background-img: "../img/the_latest_blur.png"
 # Dynamic Text on the Header #
 ##############################
 
-dynamic-typing: False
+dynamic-typing: True
 shuffle: True # Shuffle the lines.
 loop: True
 loop-count: 5 # Set False for infinite loop, or set any number for finite loop.
@@ -57,7 +57,7 @@ start-delay: 200
 delete-delay: 8000
 lines: # You can add HTML Tags in the Text
 
-  # - text: "Something clever goes here."
+  - text: "Something clever goes here."
 
 
 
