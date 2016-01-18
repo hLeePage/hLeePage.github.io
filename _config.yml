@@ -117,7 +117,7 @@ events:
     description: "IT Consulting,  Medical Device Sales, Faux and Decorative Painting, Making Music."
   - image: "/img/timeline/graduation.png"
     date: "Sept. 1991 - May 1995"
-    description: "BA Anthropolgy, magna cum laude, Vanderbilt University"
+    description: "BA Anthropolgy, _magna cum laude_, Vanderbilt University"
   - image: "/img/timeline/early_earth.jpg"
     date: "4.6 BYA - Sept. 1991"
     description: "The Earth forms and cools. A lot of stuff happens."
