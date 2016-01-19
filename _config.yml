@@ -114,7 +114,7 @@ events:
     description: "Learning to code (Udacity, Treehouse, Codeschool, you name it)"
   - image: "/img/timeline/hourglass.png"
     date: "May 1995 - Oct 2014"
-    description: "IT Consulting,  Medical Device Sales, Faux and Decorative Painting, Making Music."
+    description: "IT Consulting,  Medical Device Sales, Faux and Decorative Painting, Making Music.*"
   - image: "/img/timeline/graduation.png"
     date: "Sept. 1991 - May 1995"
     description: "BA Anthropolgy, _magna cum laude_, Vanderbilt University"
